@@ -1,0 +1,9 @@
+https://github.com/huggingface/transformers
+
+https://medium.com/@ngwaifoong92/beginners-guide-to-retrain-gpt-2-117m-to-generate-custom-text-content-8bb5363d8b7f
+
+https://towardsdatascience.com/teaching-gpt-2-a-sense-of-humor-fine-tuning-large-transformer-models-on-a-single-gpu-in-pytorch-59e8cec40912
+
+https://github.com/qubvel/efficientnet
+
+https://www.learnopencv.com/efficientnet-theory-code/
